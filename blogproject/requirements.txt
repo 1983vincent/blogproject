@@ -16,7 +16,7 @@ lxml==4.2.1
 Markdown==2.6.11
 mod-wsgi==4.6.4+ap24vc14
 parsel==1.4.0
-Pillow==5.2.0
+Pillow==6.2.0
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
 pycparser==2.18
