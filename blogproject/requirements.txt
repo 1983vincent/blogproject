@@ -12,7 +12,7 @@ Django==2.1
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
-lxml==4.2.1
+lxml==4.6.5
 Markdown==2.6.11
 mod-wsgi==4.6.4+ap24vc14
 parsel==1.4.0
